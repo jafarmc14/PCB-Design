@@ -1,0 +1,27 @@
+KiCad STM32 + USB + Buck Converter PCB Design and JLCPCB Assembly
+Dalam proyek ini, saya mendesain sebuah PCB yang mengintegrasikan mikrokontroler STM32, koneksi USB, dan sebuah buck converter sebagai regulator daya. Seluruh proses desain dilakukan menggunakan KiCad, mulai dari schematic, layout PCB, hingga pembuatan file produksi (Gerber). PCB ini kemudian dikirim dan dirakit melalui layanan JLCPCB Assembly.
+
+🔧 Fitur Desain:
+✅ STM32 Microcontroller: Digunakan sebagai otak dari sistem, ideal untuk pengembangan aplikasi embedded.
+
+✅ USB Interface: Komunikasi data dan/atau daya melalui konektor USB.
+
+✅ Buck Converter: Efisien dalam menurunkan tegangan input untuk menyalakan sistem 3.3V atau 5V.
+
+✅ Desain 2-layer PCB: Kompak dan hemat biaya untuk produksi massal.
+
+✅ Kompatibel dengan Assembly JLCPCB: Semua komponen dipilih dari LCSC agar bisa langsung dirakit otomatis.
+
+🛠️ Tools yang Digunakan:
+KiCad – open-source PCB design software.
+
+STM32CubeMX – konfigurasi awal dan inisialisasi STM32.
+
+JLCPCB – pembuatan dan perakitan PCB secara profesional.
+
+📦 Output:
+File Gerber dan BoM siap untuk fabrikasi.
+
+Proyek siap langsung dirakit melalui layanan PCBA (Printed Circuit Board Assembly).
+
+Cocok untuk pengembangan prototipe produk berbasis STM32.
